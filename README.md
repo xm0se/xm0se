@@ -1,4 +1,4 @@
-## Introduction🤵 
+## Introduction🤵
 ### Hi there! I'm a passionate 19-year-old Android application developer, driven by a deep curiosity and love for technology. From a young age, I've been captivated by the world of coding and app development, and I've dedicated myself to honing my skills in this dynamic field.
 
 ## Tools ⚙️
