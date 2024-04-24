@@ -2,8 +2,8 @@
 ### Hi there! I'm a passionate 19-year-old junior Android application developer, driven by a deep curiosity and love for technology. From a young age, I've been captivated by the world of coding and app development, and I've dedicated myself to honing my skills in this dynamic field.
 
 ## Tools ⚙️
-*  Java: Primary language for Android app development, known for its robustness and versatility.
-* Kotlin: Modern alternative to Java, gaining popularity for Android development due to its concise syntax and enhanced features.
+* Java: Primary language for Android app development, known for its robustness and versatility.
+* Kotlin: Modern alternative to Java, gaining popularity for Android development due to its concise syntax, scalability and enhanced features.
 * Android Studio: The official IDE for Android app development, providing powerful tools and features tailored specifically for building Android applications.
 * Android SDK (Software Development Kit): Essential toolkit for developing Android applications, providing APIs for accessing device features and building user interfaces.
 * Android Jetpack: A set of libraries, tools, and guidance to help developers write high-quality apps more easily. Components include ViewModel, Room, Navigation, and more.
